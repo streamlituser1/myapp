@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 
-st.write("Hello World!")
+st.write("Hello Greenhouse!")
 
 first_name = st.text_input('First name')
 if st.checkbox('Add last name'):
